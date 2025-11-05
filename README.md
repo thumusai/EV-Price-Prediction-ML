@@ -125,7 +125,7 @@ Then open your browser and go to:
 ## 🧑‍🏫 **Author**
 
 **Sai Thumu**
-📧 [23U11A0442@gmail.com]
+📧 [23U11A0442@gmail.com]    
 🎓 Developed as part of a Machine Learning practice project
 
 ---
