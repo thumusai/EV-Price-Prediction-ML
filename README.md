@@ -89,7 +89,7 @@ streamlit run app.py
 ```
 
 Then open your browser and go to:
-👉 [http://localhost:8501](http://localhost:8501)
+👉 http://localhost:8504/
 
 ---
 
@@ -119,6 +119,12 @@ Then open your browser and go to:
 * Use deep learning models
 * Deploy on Streamlit Cloud / Render
 * Integrate OpenAI for interactive chat support
+
+  **Tech Stack:**
+    - Python
+    - Streamlit
+    - Scikit-Learn
+    - Pandas
 
 ---
 
