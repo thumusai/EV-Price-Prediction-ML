@@ -89,7 +89,7 @@ streamlit run app.py
 ```
 
 Then open your browser and go to:
-👉 http://localhost:8504/
+👉 http://localhost:8503/
 
 ---
 
